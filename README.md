@@ -17,4 +17,4 @@ It installs all different programs using winget and .bat compatibilities.
 - Dark Mode = Makes windows dark instead of light!
 
 ## Installation
-Installation is super simple! Just download the .bat file and run it! Download it (here!)[google.com]
+Installation is super simple! Just download the .bat file and run it! Download it [here!](google.com)
