@@ -1,1 +1,1 @@
-echo just to mark as python
+echo just to mark as batch
